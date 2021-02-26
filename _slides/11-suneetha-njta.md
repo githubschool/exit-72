@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome to suneetha-njta's slide!"
 ---
 Git Demo
 
